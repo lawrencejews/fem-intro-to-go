@@ -15,3 +15,4 @@ package main
 // func main() {
 // 	fmt.Println(average(10, 5, 7))
 // }
+
